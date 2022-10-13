@@ -1,0 +1,6 @@
+# Prerequisites
+.vs
+*/bin/
+*/obj/
+*/Properties/PublishProfiles/FolderProfile.pubxml
+*/Properties/PublishProfiles/FolderProfile.pubxml.user
